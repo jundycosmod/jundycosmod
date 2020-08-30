@@ -5,4 +5,4 @@
 
 <p><em>Looking for a full-time remote work as PHP Developer.</em></p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=jundycosmod&show_icons=true&hide_border=true)
