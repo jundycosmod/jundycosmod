@@ -3,6 +3,6 @@
 <p><em>Senior Software Engineer (PHP) at <a href="https://www.deltek.com/en-gb">Deltek</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<p><em>Looking for a full-time remote work as PHP Developer.</em></p>
+<p><strong>Looking for a full-time remote work as PHP Developer.</strong></p>
 
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=jundycosmod&show_icons=true&hide_border=true)
