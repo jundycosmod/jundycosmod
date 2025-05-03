@@ -4,5 +4,3 @@
 </em></p>
 
 <p><strong>Looking for a full-time remote work.</strong></p>
-
-![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=jundycosmod&show_icons=true&hide_border=true)
